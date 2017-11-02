@@ -1,0 +1,17 @@
+click==6.7
+cloudpickle==0.2.2
+clyent==1.2.2
+Django==1.11.6
+lazy-object-proxy==1.2.2
+lxml==3.7.2
+Markdown==2.6.9
+openpyxl==2.4.1
+pep8==1.7.0
+Pillow==4.0.0
+pytz==2016.10
+QtPy==1.2.1
+SQLAlchemy==1.1.5
+sympy==1.0
+virtualenv==15.1.0
+Werkzeug==0.11.15
+
